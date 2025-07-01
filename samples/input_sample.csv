@@ -1,0 +1,4 @@
+date,transaction_id,currency,amount
+2023-01-15,1a2b3c4d,TON,15.5
+2023-02-20,5e6f7g8h,BTC,0.25
+2023-03-10,9i0j1k2l,ETH,1.75
